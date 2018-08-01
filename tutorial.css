@@ -1,0 +1,13 @@
+#GitHub-tutorial {
+  width: 300px;
+  margin: 0 auto;
+  padding: 10px;
+  background: #e1ffc5;
+  color: #fff;
+  font: 20px comic sans;
+  text-align: center;
+}
+#GitHub-tutorial span {
+  display: block;
+  font: 12px calibri;
+}
